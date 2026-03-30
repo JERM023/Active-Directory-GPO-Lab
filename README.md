@@ -1,8 +1,6 @@
 # Active-Directory-GPO-Lab
 Configured an Active Directory lab environment and implemented Group Policy to manage user restrictions. Troubleshot domain logon issues and applied OU-based GPO targeting.
 
-### Active Directory GPO Lab
-
 ## Overview
 
 This project demonstrates the setup of an Active Directory environment and the implementation of Group Policy Objects (GPOs) to control user permissions.
