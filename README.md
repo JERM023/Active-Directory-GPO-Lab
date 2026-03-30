@@ -68,3 +68,12 @@ Encountered an issue where domain users could not log in.
 - Troubleshooting domain login issues
 - OU-based policy scoping
 - Windows Server environment setup
+
+---
+### Screenshots
+
+!(GPO-1.png)
+!(GPO-2.png)
+!(GPO-3.png)
+!(GPO-4.png)
+
