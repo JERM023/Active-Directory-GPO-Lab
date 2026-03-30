@@ -73,8 +73,9 @@ Encountered an issue where domain users could not log in.
 ### Screenshots
 
 ![GPO](GPO-1.png)
+-Logged in as User John (User the Policy applies to)
 ![GPO](GPO-2.png)
 ![GPO](GPO-3.png)
+-As you can see, he was not able to access the Control Panel
 ![GPO](GPO-4.png)
-
 ---
