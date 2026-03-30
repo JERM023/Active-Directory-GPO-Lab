@@ -8,6 +8,7 @@ Configured an Active Directory lab environment and implemented Group Policy to m
 This project demonstrates the setup of an Active Directory environment and the implementation of Group Policy Objects (GPOs) to control user permissions.
 
 The lab includes creating users, organizing them into Organizational Units (OUs), applying GPOs, and troubleshooting real-world domain issues.
+
 ---
 ## Environment
 
