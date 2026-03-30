@@ -52,9 +52,8 @@ Encountered an issue where domain users could not log in.
 
 ## Resolution:
 - Modified:
-
-- Allow log on locally → added Domain Users
-- Cleared Deny log on locally
+ Allow log on locally → added Domain Users
+ Cleared Deny log on locally
 
 - Forced policy update and rebooted system
 ---
