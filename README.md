@@ -72,8 +72,8 @@ Encountered an issue where domain users could not log in.
 ---
 ### Screenshots
 
-!(GPO-1.png)
-!(GPO-2.png)
-!(GPO-3.png)
-!(GPO-4.png)
-
+![GPO](GPO-1.png)
+![GPO](GPO-2.png)
+![GPO](GPO-3.png)
+![GPO](GPO-4.png)
+---
