@@ -70,12 +70,12 @@ Encountered an issue where domain users could not log in.
 - Windows Server environment setup
 
 ---
-### Screenshots
+#### Screenshots
 
 ![GPO](GPO-1.png)
--Logged in as User John (User the Policy applies to)
+Logged in as User John (The User this policy applies to)
 ![GPO](GPO-2.png)
 ![GPO](GPO-3.png)
--As you can see, he was not able to access the Control Panel
+As you can see, he is not able to access the Control Panel
 ![GPO](GPO-4.png)
 ---
